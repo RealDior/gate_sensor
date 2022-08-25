@@ -18,5 +18,5 @@ When adding coordinates, make sure to put the coordinates of the end of the gate
 I have set the coordinates at the last 3 lines on the LSIA gate lines. 
 
 
-**If you are planning on configuring the script, you are not allowed to republish the script without original credit to the original creator (dior.💎), as stated in the LICENCE. 
+**If you are planning on configuring the script, you are not allowed to republish the script without original credit to the original creator (dior.💎), as stated in the LICENSE. 
 You are allowed to configure the script for personal use.
