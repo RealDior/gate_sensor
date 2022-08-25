@@ -8,7 +8,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TheRealRyan01'
+author 'RealDior'
 description 'A script that allows pilots to enable their parking break on their aircrafts when in a gate.'
 version '1.0'
 
