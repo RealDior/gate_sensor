@@ -4,9 +4,9 @@ Once an aircraft has reached the end of a gate, the gate sensor will enable and 
 
 How To Install? 
 1) Download  the files 
-2) Drag the "gate_sensor_v1" folder into your server resource folder 
+2) Drag the "gate_sensor-1" folder into your server resource folder 
 3) Open your server.cfg file
-4) Add this line: "start gate_sensor_v1"
+4) Add this line: "start gate_sensor-1"
 
 How To Add Gates? 
 1) Open the client.lua file with a code editor (Notpad++, Visual Studio Code, ext) 
